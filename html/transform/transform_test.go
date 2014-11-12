@@ -6,7 +6,7 @@
 package transform
 
 import (
-	"code.google.com/p/go-html-transform/h5"
+	"github.com/rtfb/go-html-transform/h5"
 	"testing"
 )
 
