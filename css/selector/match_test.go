@@ -3,7 +3,7 @@ package selector
 import (
 	"github.com/rtfb/go-html-transform/h5"
 
-	"code.google.com/p/go.net/html"
+	"golang.org/x/net/html"
 	"testing"
 )
 

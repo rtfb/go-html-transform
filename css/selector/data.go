@@ -6,8 +6,8 @@ package selector
 import (
 	"github.com/rtfb/go-html-transform/h5"
 
-	"code.google.com/p/go.net/html"
 	"fmt"
+	"golang.org/x/net/html"
 	"strings"
 )
 

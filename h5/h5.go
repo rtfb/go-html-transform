@@ -17,9 +17,9 @@ package h5
 
 import (
 	"bytes"
-	"code.google.com/p/go.net/html"
-	"code.google.com/p/go.net/html/atom"
 	"fmt"
+	"golang.org/x/net/html"
+	"golang.org/x/net/html/atom"
 	"io"
 	"strings"
 )

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"code.google.com/p/go.net/html"
+	"golang.org/x/net/html"
 
 	"github.com/rtfb/go-html-transform/css/selector"
 	"github.com/rtfb/go-html-transform/h5"
